@@ -1,50 +1,66 @@
-# 👋 Hi, I'm Praveen Kumar
+# Hi, I'm Praveen Kumar
 
-Senior Frontend Engineer with 6+ years of experience building scalable Angular and React applications for enterprise and data-intensive platforms.
+Senior Frontend Engineer with **7+ years** building scalable Angular and React applications for enterprise, SaaS, and data-intensive platforms. I lead small frontend teams and own products end to end — from empty repo to production.
 
-I specialize in:
+**Currently open to Senior Frontend Engineer and Frontend Lead roles** (remote, or on-site in India).
 
-* High-performance frontend architecture
-* Large-scale data-driven applications
-* AG-Grid and complex dashboard systems
-* Real-time frontend experiences using WebSockets
-* Angular migrations and scalable UI patterns
-* Frontend performance optimization
+### What I specialize in
+
+- High-performance frontend architecture
+- Large-scale data-driven applications — 17,000+ row grids over 20,000+ records
+- AG-Grid Enterprise and complex dashboard systems
+- Real-time and streaming interfaces over WebSockets
+- LLM-powered product features — streaming AI chat over OpenAI and Anthropic
+- Angular migrations (v16 → v20: −12% bundle, −8% build time) and scalable UI patterns
+- Frontend performance optimization — pagination, virtualization, lazy loading, bundle splitting
 
 ---
 
 ## 🚀 Tech Stack
 
-### Frontend
+**Frontend**
+Angular (v7–v20), React, Next.js, TypeScript, JavaScript (ES6+), RxJS, NGXS, NGRX, Redux, React-Query
 
-Angular (v7–v20), React, TypeScript, JavaScript, RxJS, NGXS, NGRX, Next.js
+**UI & Data Visualization**
+AG-Grid Enterprise, AG Charts, DevExpress (DevExtreme), Material UI, Tailwind CSS, Bootstrap, TinyMCE, HTML5, CSS3, SASS
 
-### UI & Data Visualization
+**Architecture & Performance**
+Standalone components, lazy loading, bundle splitting, modular/feature-based design, dynamic form engines, server-side pagination, row virtualization, API response caching
 
-AG-Grid Enterprise, AG Charts, Material UI, Bootstrap, HTML5, CSS3
+**APIs, Auth & Payments**
+REST APIs, WebSockets, JWT, OAuth 2.0, Google Sign-In, role-based access control, Stripe
 
-### Frontend Architecture
+**AI-Assisted Engineering**
+GitHub Copilot, Claude, ChatGPT, Codex — implementation planning, code generation, refactoring
 
-Lazy Loading, Standalone Components, State Management, SPA
-
-### Tools
-
-Git, GitHub, Postman, Jira, Docker, Linux
+**Cloud & Tooling**
+AWS S3, Azure Blob Storage, Google Cloud, Cloudinary, Docker, GitHub Actions, Git, Webpack, Babel, ESLint, Prettier, Postman, Jira, Linux
 
 ---
 
 ## 💼 What I Work On
 
-* Enterprise frontend platforms
-* Data-intensive dashboards
-* Real-time user workflows
-* Scalable modular frontend systems
-* Performance-focused UI engineering
+- Enterprise frontend platforms and data-intensive dashboards
+- AI and LLM-powered interfaces — streaming chat, contextual querying
+- Config-driven systems where admins customize forms and tables without code changes
+- Scalable modular frontend architecture and reusable component libraries
+- Mentoring engineers and leading frontend delivery with clients
+
+---
+
+## 🏗️ Selected Work
+
+**DDMind** — Private equity research platform. Led 2 developers; rebuilt AG-Grid views over 20,000+ financial records and shipped a streaming LLM chat for contextual research queries.
+
+**CCM** — Contract and vendor management platform. Migrated v0-generated UI into production Next.js, set up the architecture, and built the AI Sync chat and User modules.
+
+**Paper Tiger** — Academic research and writing platform. Sole frontend engineer; built all five modules from scaffolding to production, including PDF parsing and a TinyMCE writing interface.
+
+**Qbench** — Laboratory SaaS portal. Sole frontend engineer; built a config-driven engine rendering dynamic tables and forms from backend configuration, plus Stripe billing.
 
 ---
 
 ## 🤝 Connect With Me
 
-* LinkedIn: linkedin.com/in/prvnsahni
-* GitHub: github.com/prvnsahni
-* Email: [prvnsahni1@gmail.com](mailto:prvnsahni1@gmail.com)
+- **LinkedIn:** [linkedin.com/in/prvnsahni](https://linkedin.com/in/prvnsahni)
+- **Email:** [prvnsahni1@gmail.com](mailto:prvnsahni1@gmail.com)
